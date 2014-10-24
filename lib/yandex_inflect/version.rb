@@ -1,5 +1,3 @@
-# -*- encoding: utf-8 -*-
-
 module YandexInflect
   module VERSION #:nodoc:
     MAJOR = 0
